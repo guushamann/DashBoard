@@ -93,6 +93,23 @@
         "url": "quickref.me/html.html",
         "name": "html cheat sheet",
         "grid": false
+    },
+    {
+        "url": "dash.cloudflare.com/abccbc5aef3cd987df524ad3e59b1f3c/gustafson75.site/dns/records",
+        "name": "cloudflare dns",
+        "grid": false
+    },
+    {
+        "url": "beest.gustafson75.site:8006/",
+        "name": "beest proxmox",
+        "grid": false
+    },
+    {
+        "url": "docker.gustafson75.site:81/",
+        "name": "nginx proxy",
+        "grid": false
     }
 
+    
+    
 ]
