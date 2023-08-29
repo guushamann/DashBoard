@@ -1,18 +1,32 @@
 [
     {
         "url": "www.tweakers.net",
-        "name": "tweakers.net"
+        "name": "tweakers.net",
+        "grid":true
     },
     {
         "url": "www.nos.nl",
-        "name": "nos.nl"
+        "name": "nos.nl",
+        "grid":true
     },
     {
         "url": "www.youtube.com",
-        "name": "youtube.com"
+        "name": "youtube.com",
+        "grid":true
     },
     {
         "url": "webmail.cloudorb.com",
-        "name": "mail"
+        "name": "mail",
+        "grid":true
+    },
+    {
+        "url": "reddit.com",
+        "name": "reddit",
+        "grid":true
+    },
+    {
+        "url": "www.w3schools.com/html/",
+        "name": "html course w3c",
+        "grid": false
     }
 ]
