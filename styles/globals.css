@@ -39,3 +39,6 @@ button {
   padding: 0.5rem 1rem;
   font-weight: bold;
 }
+.weatherwidget-io-frame{
+  border-radius: 8px;
+}

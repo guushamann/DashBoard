@@ -1,32 +1,87 @@
 [
     {
+        "url": "google.nl",
+        "name": "google",
+        "grid": true
+    },
+    {
         "url": "www.tweakers.net",
         "name": "tweakers.net",
-        "grid":true
+        "grid": true
     },
     {
         "url": "www.nos.nl",
         "name": "nos.nl",
-        "grid":true
+        "grid": true
     },
     {
         "url": "www.youtube.com",
         "name": "youtube.com",
-        "grid":true
+        "grid": true
     },
     {
         "url": "webmail.cloudorb.com",
         "name": "mail",
-        "grid":true
+        "grid": true
     },
     {
         "url": "reddit.com",
         "name": "reddit",
-        "grid":true
+        "grid": true
     },
+    {
+        "url": "www.ns.nl/stationsinformatie/rtd/rotterdam-centraal",
+        "name": "ns rotterdam",
+        "grid": true
+    },
+    {
+        "url": "www.ns.nl/stationsinformatie/etn/etten-leur",
+        "name": "ns etten-leur",
+        "grid": true
+    },
+    {
+        "url": "maps.google.nl",
+        "name": "Google Maps",
+        "grid": true
+    },
+    {
+        "url": "photos.google.com",
+        "name": "Google Photos",
+        "grid": true
+    },
+    
     {
         "url": "www.w3schools.com/html/",
         "name": "html course w3c",
+        "grid": false
+    },
+    {
+        "url": "www.raisin.nl/savingglobal/#/Login",
+        "name": "Raisin bank",
+        "grid": false
+    },
+    {
+        "url": "bankieren.rabobank.nl/welcome",
+        "name": "Rabobank",
+        "grid": false
+    },
+    {
+        "url": "https://www.alltrails.com/nl-nl/",
+        "name": "Walk All Trails",
+        "grid": false
+    },
+    {
+        "url": "https://www.komoot.com/discover",
+        "name": "Walk Komoot",
+        "grid": false
+    },{
+        "url": "www.netflix.com",
+        "name": "netflix",
+        "grid": false
+    },
+    {
+        "url": "vuejs.org/guide/introduction.html",
+        "name": "vue.js framework",
         "grid": false
     }
 ]
