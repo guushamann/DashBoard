@@ -1,5 +1,3 @@
-export default function Main() {
-    return (
-      <div className="text-3xl font-bold underline">Main</div>
-    )
-  }
+import grid from "./grid/grid";
+
+export default grid
