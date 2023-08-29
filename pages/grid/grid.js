@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { useState, useEffect,useRef } from "react";
+import { useState, useEffect,useRef,useLayoutEffect } from "react";
 import Weather from "../../components/weather";
 function GridButton({ url, name }) {
   const websiteUrl = `https://${url}`
@@ -40,7 +40,9 @@ export default function links() {
     fetchData()
     inputRef.current.focus();
   }, [])
-  useEffect(() => {
+
+
+  useLayoutEffect(() => {
     setGridData(allData.filter(d => d.grid));
     setListData(allData.filter(d => !d.grid));
   },[allData])

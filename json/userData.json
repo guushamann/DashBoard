@@ -83,5 +83,16 @@
         "url": "vuejs.org/guide/introduction.html",
         "name": "vue.js framework",
         "grid": false
+    },
+    {
+        "url": "flowbite.com/tools/tailwind-cheat-sheet/",
+        "name": "tailwind cheat sheet",
+        "grid": false
+    },
+    {
+        "url": "quickref.me/html.html",
+        "name": "html cheat sheet",
+        "grid": false
     }
+
 ]

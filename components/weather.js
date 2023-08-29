@@ -21,6 +21,8 @@ export default function Weather() {
         data-days="3"
         data-theme="gray" 
         data-basecolor="#334155"
+        data-textcolor="rgb(166, 173, 186)"
+        data-cloudcolor="rgb(166, 173, 186)"
       >
         ETTEN-LEUR Weer
       </a>
