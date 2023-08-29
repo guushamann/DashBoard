@@ -13,7 +13,7 @@ function GridButton({ url, name }) {
 function ListButton({ url, name }) {
   const websiteUrl = `https://${url}`
   return (<div className=" rounded-lg  p-4 bg-slate-700 w-full grid grid-cols-2 cursor-pointer" onClick={e=>window.open(websiteUrl)}>
-    <div className="link uppercase">{name}</div> <div className="link">{websiteUrl}</div>
+    <div className="link uppercase text-ellipsis">{name}</div> <div className="link">{websiteUrl}</div>
   </div>);
 }
 
